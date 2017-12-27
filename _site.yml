@@ -1,0 +1,10 @@
+name: "alams-pensieve"
+output_dir: "."
+navbar:
+  title: "Alam's Pensieve"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+      
