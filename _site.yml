@@ -7,4 +7,12 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Math"
+      href: mathprereqs.html
+    - text: "Blog"
+      href: bog.html
+  output:
+    html_document:
+      css: style.css
+      
       

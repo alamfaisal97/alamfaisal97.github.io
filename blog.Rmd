@@ -1,0 +1,7 @@
+---
+title: "To be redirected to Quora"
+output: 
+  html_document:
+    theme: cosmo
+---
+<meta http-equiv="refresh" content="0; URL='https://alamspensieve.quora.com/'" />

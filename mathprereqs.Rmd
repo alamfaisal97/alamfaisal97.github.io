@@ -1,0 +1,13 @@
+---
+title: "QFT Notes 1 - Some Mathematical Prerequisites"
+header-includes:
+  -\usepackage{amsmath, amssymb, amsthm, enumerate, physics, xcolor, tikz-cd, mathrsfs, graphicx, subfig, float, framed, color, braket}
+output: 
+  html_document:
+    theme: cosmo
+---
+
+A function $f(x)$ can be approximated close to $x=a$ by:
+\[ 
+f(x) = f(a) + f'(a)(x-a)+f''(a)(x-a)^2+\mathscr{O}((x-a)^3)
+\]

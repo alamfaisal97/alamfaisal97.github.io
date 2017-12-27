@@ -1,5 +1,8 @@
 ---
 title: "Alam's Pensieve"
+output: 
+  html_document:
+    theme: cosmo
 ---
 
 Hello, World!
