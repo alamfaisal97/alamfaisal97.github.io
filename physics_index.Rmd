@@ -1,0 +1,10 @@
+---
+title: "Physics"
+header-includes:
+  -\usepackage{amsmath, amssymb, amsthm, enumerate, physics, xcolor, tikz-cd, mathrsfs, graphicx, subfig, float, framed, color, braket}
+output: 
+  html_document:
+    theme: cosmo
+---
+
+...Nothing to see here yet. 

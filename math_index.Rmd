@@ -1,0 +1,24 @@
+---
+title: "Mathematics"
+header-includes:
+  -\usepackage{amsmath, amssymb, amsthm, enumerate, physics, xcolor, tikz-cd, mathrsfs, graphicx, subfig, float, framed, color, braket}
+output: 
+  html_document:
+    theme: cosmo
+---
+
+This page contains some notes on the mathematical prerequisites for QM and QFT. 
+
+1. The basics  
++ Taylor expansions 
++ The Dirac Delta
++ Functional Derivatives 
++ The Wave Equation 
+
+2. Linear Algebra for DEs
++ Eigenvalues of a linear (differential) operator
++ Green Functions 
+
+3. Appendix
++ Useful functional derivatives
+

@@ -1,5 +1,5 @@
 ---
-title: "To be redirected to Quora"
+title: "Redirecting to Quora ..."
 output: 
   html_document:
     theme: cosmo

@@ -1,8 +1,25 @@
 ---
 title: "Alam's Pensieve"
+
 output: 
   html_document:
     theme: cosmo
 ---
 
-Hello, World!
+## Hi!
+
+My name is Faisal Alam and I am an undergraduate physics and mathematics major at Franklin & Marshall College in Lancaster, PA.
+
+Despite the best of my efforts I have always been lousy at keeping coherent, organized notes on my classes and independent studies. This was a fine (but not ideal) way to go about my studies in high school classes. But now I find it increasingly difficult to retain things that I am learning. The course contents are more difficult to digest, textbooks are opaque and there is quite enough to do every day without having to relearn material that I should already know.
+
+This website will serve as a repository of bits and pieces of notes or blog posts on various topics of interest to me, things that I am bubbling to share with someone, things that are too big for me to grapple with in my mind. A Dumbledorian Pensieve if you will!
+
+I may also write posts compiling study materials that I have found particularly helpful or the occasional rant about certain aspects of contemporary literature.
+
+<br>
+
+> "One simply siphons the excess thoughts from one's mind, pours them into the basin, and examines them at one's leisure. It becomes easier to spot patterns and links, you understand, when they are in this form." <br>
+        -- Albus Dumbledore, Harry Potter and the Goblet of Fire.
+
+
+![](pensieve.jpg)

@@ -3,14 +3,14 @@ output_dir: "."
 navbar:
   title: "Alam's Pensieve"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About Me"
-      href: about.html
     - text: "Math"
-      href: mathprereqs.html
+      href: math_index.html
+    - text: "Physics"
+      href: physics_index.html
+    - text: "Projects"
+      href: projects.html
     - text: "Blog"
-      href: bog.html
+      href: blog.html
   output:
     html_document:
       css: style.css

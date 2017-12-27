@@ -1,5 +1,5 @@
 ---
-title: "QFT Notes 1 - Some Mathematical Prerequisites"
+title: "Taylor Expansions"
 header-includes:
   -\usepackage{amsmath, amssymb, amsthm, enumerate, physics, xcolor, tikz-cd, mathrsfs, graphicx, subfig, float, framed, color, braket}
 output: 
