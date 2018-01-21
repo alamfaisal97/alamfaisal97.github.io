@@ -4,4 +4,4 @@ output:
   html_document:
     theme: cosmo
 ---
-<meta http-equiv="refresh" content="0; URL='https://alamspensieve.quora.com/'" />
+<meta http-equiv="refresh" content="0; URL='https://www.quora.com/profile/Faisal-Alam-10/all_posts'" />

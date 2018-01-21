@@ -7,6 +7,4 @@ output:
     theme: cosmo
 ---
 
-## [QFT Notes]
-
-- Notes and solutions to exercises in "Quantum Field Theory for the Gifted Amateur" by Lancaster & Blundell
+- [Notes on "Quantum Field Theory for the Gifted Amateur"](https://alamfaisal97.github.io/qftga_index)

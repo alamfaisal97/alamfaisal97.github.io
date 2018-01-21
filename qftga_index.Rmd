@@ -1,0 +1,30 @@
+---
+title: "  "
+
+output: 
+  html_document:
+    theme: cosmo
+---
+
+<br>
+<br>
+
+These are my notes on "Quantum Field Theory for the Gifted Amateur" by Lancaster & Blundell. The links below lead to short summaries of the chapters and solutions to some of the problems at the end of the chapters. Naturally the correctness of neither is guranteed. 
+
+
+## IV: Propagators and perturbations
+
+- Ch 16: Propagators and Green's functions
+- Ch 17: Propagators and fields
+- Ch 18: The S-matrix
+- Ch 19: Expanding the S-matrix: Feynman diagrams
+- Ch 20: Scattering theory 
+
+## V: Interlude: wisdom from statistical physics
+
+- Ch 21: Statistical physics: a crash course 
+
+<br>
+<br>
+
+[back](https://alamfaisal97.github.io/)
