@@ -7,4 +7,6 @@ output:
     theme: cosmo
 ---
 
-...Nothing to see here yet. 
+## [QFT Notes]
+
+- Notes and solutions to exercises in "Quantum Field Theory for the Gifted Amateur" by Lancaster & Blundell
